@@ -79,15 +79,6 @@ gulp.task('serve', function() {
       index: "index.html"
     }
   });
-});
-
-gulp.task('serve', function() {
-  browserSync.init({
-    server: {
-      baseDir: "./",
-      index: "index.html"
-    }
-  });
 
   gulp.watch(['js/*.js'], ['jsBuild']);
   gulp.watch(['bower.json'], ['bowerBuild']);
