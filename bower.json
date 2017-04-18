@@ -6,7 +6,7 @@
     "B. Womack"
   ],
   "license": "ISC",
-  "homepage": "",
+  "homepage": "https://github.com/likewater/ping-pong-js-week-one",
   "ignore": [
     "**/.*",
     "node_modules",
