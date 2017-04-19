@@ -1,14 +1,14 @@
-var Weather = require('./../js/bike.js').weatherModule;
+var Bike = require('./../js/bike.js').bikeModule;
 
 // var displayResults = function(city, humidityData) {
-//   $('.showWeather').text("The humidity in " + city + " is " + humidityData + "%");
+//   $('.showBike').text("The humidity in " + city + " is " + humidityData + "%");
 // }
 
 $(document).ready(function() {
-  var currentBikeObject = new Weather();
-  $('#weather-location').click(function() {
+  var currentBikeObject = new Bike();
+  $('#stolen-location').click(function() {
     var location = $('#location').val();
     $('#location').val("");
-    currentBikeObject.getWeather(location);
+    currentBikeObject.getBike(location);
   });
 });
