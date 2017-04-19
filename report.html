@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="build/css/vendor.css">
+    <link rel="stylesheet" href="build/css/styles.css">
+    <script src="build/js/vendor.min.js"></script>
+    <script type="text/javascript" src="build/js/app.js"></script>
+    <title>Stolen Bike Resource Hub</title>
+  </head>
+  <body>
+    <div class="jumbotron-small" id="jumbotron">
+     <h1 class="jumboTitle">Stolen Bike Resource Hub</h1>
+    </div><!-- closes jumbotron-->
+
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+          <div class="well">
+      <h1>Report Stolen Bike</h1>
+      <label for="stolenLocation">Location</label>
+      <input id="stolenLocation" type="text" required>
+
+
+      <!-- <label for="location">Search by manufacturer:</label>
+      <input id="manufacturer" type="text" required>
+      <label for="color">Search by bike color:</label>
+      <input id="color" type="text" required> -->
+      <button class="btn-primary" id="reportStolen">Add Stolen Bike</button>
+    </div> <!-- close well -->
+  </div> <!-- close col-md-8 -->
+</div> <!--closes row -->
+
+    <hr>
+
+      <div class="col-md-6 col-md-offset-2">
+      <h2>Search Results</h2>
+      <div class="showBikes"></div>
+    </div>
+    </div>
+  </body>
+</html>

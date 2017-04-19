@@ -1,0 +1,429 @@
+{
+  "bikes": [
+    {
+      "id": 114242,
+      "title": "2014 Trek Madone 2.1 (Compact or Triple)",
+      "serial": "absent",
+      "manufacturer_name": "Trek",
+      "frame_model": "Madone 2.1 (Compact or Triple)",
+      "year": 2014,
+      "frame_colors": [
+        "Black"
+      ],
+      "thumb": "https://files.bikeindex.org/uploads/Pu/81303/small_17499421_10158432255645635_1279785402605103911_n.jpg",
+      "large_img": "https://files.bikeindex.org/uploads/Pu/81303/large_17499421_10158432255645635_1279785402605103911_n.jpg",
+      "is_stock_img": false,
+      "stolen": true,
+      "stolen_location": "New York,NY,10001",
+      "date_stolen": 1491832926
+    },
+    {
+      "id": 114179,
+      "title": "2015 Trek 7.2 FX",
+      "serial": "WTU046C0972K",
+      "manufacturer_name": "Trek",
+      "frame_model": "7.2 FX",
+      "year": 2015,
+      "frame_colors": [
+        "Black"
+      ],
+      "thumb": null,
+      "large_img": null,
+      "is_stock_img": false,
+      "stolen": true,
+      "stolen_location": "Brooklyn,NY,11201",
+      "date_stolen": 1491717600
+    },
+    {
+      "id": 112934,
+      "title": "2015 Trek TREK FX 7.3 (white TREK LOGO)",
+      "serial": "WTU114C6072K",
+      "manufacturer_name": "Trek",
+      "frame_model": "TREK FX 7.3 (white TREK LOGO)",
+      "year": 2015,
+      "frame_colors": [
+        "Black"
+      ],
+      "thumb": null,
+      "large_img": null,
+      "is_stock_img": false,
+      "stolen": true,
+      "stolen_location": "Jackson Heights,NY,11372",
+      "date_stolen": 1489125600
+    },
+    {
+      "id": 111321,
+      "title": "2017 Trek FX 2",
+      "serial": "WTU191C1839L",
+      "manufacturer_name": "Trek",
+      "frame_model": "FX 2",
+      "year": 2017,
+      "frame_colors": [
+        "Blue"
+      ],
+      "thumb": "https://files.bikeindex.org/uploads/Pu/78516/small_2016-10-23_174900869_60B42_iOS.jpg",
+      "large_img": "https://files.bikeindex.org/uploads/Pu/78516/large_2016-10-23_174900869_60B42_iOS.jpg",
+      "is_stock_img": false,
+      "stolen": true,
+      "stolen_location": "New York,NY,10011",
+      "date_stolen": 1488088800
+    },
+    {
+      "id": 111130,
+      "title": "2014 Trek 7.7 FX",
+      "serial": "WTU300XD51740H",
+      "manufacturer_name": "Trek",
+      "frame_model": "7.7 FX",
+      "year": 2014,
+      "frame_colors": [
+        "Black"
+      ],
+      "thumb": "https://files.bikeindex.org/uploads/Pu/78358/small_IMG_8492.jpg",
+      "large_img": "https://files.bikeindex.org/uploads/Pu/78358/large_IMG_8492.jpg",
+      "is_stock_img": false,
+      "stolen": true,
+      "stolen_location": "New York,NY,10022",
+      "date_stolen": 1487829600
+    },
+    {
+      "id": 111014,
+      "title": "2017 Trek FX3",
+      "serial": "WTU178C6123L",
+      "manufacturer_name": "Trek",
+      "frame_model": "FX3",
+      "year": 2017,
+      "frame_colors": [
+        "Black"
+      ],
+      "thumb": null,
+      "large_img": null,
+      "is_stock_img": false,
+      "stolen": true,
+      "stolen_location": "New York,NY,10011",
+      "date_stolen": 1487709817
+    },
+    {
+      "id": 111030,
+      "title": "2014 Trek 7.3 FX",
+      "serial": "wtu003c1066k",
+      "manufacturer_name": "Trek",
+      "frame_model": "7.3 FX",
+      "year": 2014,
+      "frame_colors": [
+        "Black"
+      ],
+      "thumb": "https://files.bikeindex.org/uploads/Pu/78281/small_bike.jpeg",
+      "large_img": "https://files.bikeindex.org/uploads/Pu/78281/large_bike.jpeg",
+      "is_stock_img": false,
+      "stolen": true,
+      "stolen_location": "New York,NY,10003",
+      "date_stolen": 1487656800
+    },
+    {
+      "id": 112053,
+      "title": "2016 Trek Emonda S5",
+      "serial": "SWTU231GK0057K",
+      "manufacturer_name": "Trek",
+      "frame_model": "Emonda S5",
+      "year": 2016,
+      "frame_colors": [
+        "Black"
+      ],
+      "thumb": null,
+      "large_img": null,
+      "is_stock_img": false,
+      "stolen": true,
+      "stolen_location": "Jersey City,07302",
+      "date_stolen": 1486965600
+    },
+    {
+      "id": 110060,
+      "title": "2006 Trek 1000 WSD",
+      "serial": "absent",
+      "manufacturer_name": "Trek",
+      "frame_model": "1000 WSD",
+      "year": 2006,
+      "frame_colors": [
+        "Blue"
+      ],
+      "thumb": "https://bikebook.s3.amazonaws.com/uploads/Fr/2311/small_1000wsd_mystic.jpg",
+      "large_img": "https://bikebook.s3.amazonaws.com/uploads/Fr/2311/1000wsd_mystic.jpg",
+      "is_stock_img": true,
+      "stolen": true,
+      "stolen_location": "Brooklyn,NY,11238",
+      "date_stolen": 1486360800
+    },
+    {
+      "id": 110752,
+      "title": "2006 Trek Soho S",
+      "serial": "absent",
+      "manufacturer_name": "Trek",
+      "frame_model": "Soho S",
+      "year": 2006,
+      "frame_colors": [
+        "Black"
+      ],
+      "thumb": "https://files.bikeindex.org/uploads/Pu/77976/small_Screen_Shot_2017-02-17_at_7.20.00_PM.png",
+      "large_img": "https://files.bikeindex.org/uploads/Pu/77976/large_Screen_Shot_2017-02-17_at_7.20.00_PM.png",
+      "is_stock_img": false,
+      "stolen": true,
+      "stolen_location": "New York,NY,10012",
+      "date_stolen": 1485496800
+    },
+    {
+      "id": 109419,
+      "title": "1995 Trek",
+      "serial": "absent",
+      "manufacturer_name": "Trek",
+      "frame_model": "",
+      "year": 1995,
+      "frame_colors": [
+        "White"
+      ],
+      "thumb": "https://files.bikeindex.org/uploads/Pu/76747/small_trek-1000.jpg",
+      "large_img": "https://files.bikeindex.org/uploads/Pu/76747/large_trek-1000.jpg",
+      "is_stock_img": false,
+      "stolen": true,
+      "stolen_location": "New York,NY,10001",
+      "date_stolen": 1484200800
+    },
+    {
+      "id": 104431,
+      "title": "2015 Trek Marlin 7",
+      "serial": "wtu139c2032j",
+      "manufacturer_name": "Trek",
+      "frame_model": "Marlin 7",
+      "year": 2015,
+      "frame_colors": [
+        "Yellow or Gold"
+      ],
+      "thumb": "https://files.bikeindex.org/uploads/Pu/72943/small_IMG_7562.PNG",
+      "large_img": "https://files.bikeindex.org/uploads/Pu/72943/large_IMG_7562.PNG",
+      "is_stock_img": false,
+      "stolen": true,
+      "stolen_location": "Brooklyn,NY,11204",
+      "date_stolen": 1479621600
+    },
+    {
+      "id": 104255,
+      "title": "2016 Trek 16 Allant 7.2 size 25\" XL Frame",
+      "serial": "WTU160C1084k",
+      "manufacturer_name": "Trek",
+      "frame_model": "16 Allant 7.2 size 25\" XL Frame",
+      "year": 2016,
+      "frame_colors": [
+        "Blue"
+      ],
+      "thumb": "https://files.bikeindex.org/uploads/Pu/72848/small_Screen_Shot_2016-11-18_at_11.14.55_AM.png",
+      "large_img": "https://files.bikeindex.org/uploads/Pu/72848/large_Screen_Shot_2016-11-18_at_11.14.55_AM.png",
+      "is_stock_img": false,
+      "stolen": true,
+      "stolen_location": "New York,NY,10003",
+      "date_stolen": 1479276000
+    },
+    {
+      "id": 103484,
+      "title": "Trek 520",
+      "serial": "absent",
+      "manufacturer_name": "Trek",
+      "frame_model": "520",
+      "year": null,
+      "frame_colors": [
+        "Green"
+      ],
+      "thumb": "https://files.bikeindex.org/uploads/Pu/72362/small_IMG_0135.JPG",
+      "large_img": "https://files.bikeindex.org/uploads/Pu/72362/large_IMG_0135.JPG",
+      "is_stock_img": false,
+      "stolen": true,
+      "stolen_location": "New York,10013",
+      "date_stolen": 1478671200
+    },
+    {
+      "id": 101923,
+      "title": "2003 Trek 7200",
+      "serial": "absent",
+      "manufacturer_name": "Trek",
+      "frame_model": "7200",
+      "year": 2003,
+      "frame_colors": [
+        "Silver or Gray"
+      ],
+      "thumb": "https://bikebook.s3.amazonaws.com/uploads/Fr/2873/small_7200.jpg",
+      "large_img": "https://bikebook.s3.amazonaws.com/uploads/Fr/2873/7200.jpg",
+      "is_stock_img": true,
+      "stolen": true,
+      "stolen_location": "Brooklyn,NY,11215",
+      "date_stolen": 1477288800
+    },
+    {
+      "id": 101249,
+      "title": "2014 Trek 7.5 FX",
+      "serial": "WTU008C5172H",
+      "manufacturer_name": "Trek",
+      "frame_model": "7.5 FX",
+      "year": 2014,
+      "frame_colors": [
+        "Black"
+      ],
+      "thumb": "https://bikebook.s3.amazonaws.com/uploads/Fr/45/small_87395",
+      "large_img": "https://bikebook.s3.amazonaws.com/uploads/Fr/45/87395",
+      "is_stock_img": true,
+      "stolen": true,
+      "stolen_location": "New York,NY,10025",
+      "date_stolen": 1476856800
+    },
+    {
+      "id": 100529,
+      "title": "Trek",
+      "serial": "WTU307C2509J",
+      "manufacturer_name": "Trek",
+      "frame_model": "",
+      "year": null,
+      "frame_colors": [
+        "Red"
+      ],
+      "thumb": null,
+      "large_img": null,
+      "is_stock_img": false,
+      "stolen": true,
+      "stolen_location": "Glen Rock,NJ,07452",
+      "date_stolen": 1476321466
+    },
+    {
+      "id": 100215,
+      "title": "2016 Trek",
+      "serial": "wtu257c0653k",
+      "manufacturer_name": "Trek",
+      "frame_model": "",
+      "year": 2016,
+      "frame_colors": [
+        "Black"
+      ],
+      "thumb": null,
+      "large_img": null,
+      "is_stock_img": false,
+      "stolen": true,
+      "stolen_location": "Brooklyn,NY,11217",
+      "date_stolen": 1476079200
+    },
+    {
+      "id": 98319,
+      "title": "2014 Trek",
+      "serial": "absent",
+      "manufacturer_name": "Trek",
+      "frame_model": "",
+      "year": 2014,
+      "frame_colors": [
+        "Silver or Gray"
+      ],
+      "thumb": null,
+      "large_img": null,
+      "is_stock_img": false,
+      "stolen": true,
+      "stolen_location": "Brooklyn,ny",
+      "date_stolen": 1474903396
+    },
+    {
+      "id": 109438,
+      "title": "2010 Trek 7100",
+      "serial": "WTU145C1692E",
+      "manufacturer_name": "Trek",
+      "frame_model": "7100",
+      "year": 2010,
+      "frame_colors": [
+        "Blue"
+      ],
+      "thumb": "https://bikebook.s3.amazonaws.com/uploads/Fr/1200/small_7100_bronze.jpg",
+      "large_img": "https://bikebook.s3.amazonaws.com/uploads/Fr/1200/7100_bronze.jpg",
+      "is_stock_img": true,
+      "stolen": true,
+      "stolen_location": "New York City,NY,10027",
+      "date_stolen": 1473746400
+    },
+    {
+      "id": 95777,
+      "title": "Trek",
+      "serial": "wtu113c0",
+      "manufacturer_name": "Trek",
+      "frame_model": "",
+      "year": null,
+      "frame_colors": [
+        "Blue"
+      ],
+      "thumb": "https://files.bikeindex.org/uploads/Pu/66395/small_trek-7-3-fx_1.jpg",
+      "large_img": "https://files.bikeindex.org/uploads/Pu/66395/large_trek-7-3-fx_1.jpg",
+      "is_stock_img": false,
+      "stolen": true,
+      "stolen_location": "Brooklyn,NY,11232",
+      "date_stolen": 1473573600
+    },
+    {
+      "id": 95918,
+      "title": "2015 Trek Lync 5",
+      "serial": "wtu176c3213j ",
+      "manufacturer_name": "Trek",
+      "frame_model": "Lync 5",
+      "year": 2015,
+      "frame_colors": [
+        "Black"
+      ],
+      "thumb": "https://files.bikeindex.org/uploads/Pu/66489/small_image3.JPG",
+      "large_img": "https://files.bikeindex.org/uploads/Pu/66489/large_image3.JPG",
+      "is_stock_img": false,
+      "stolen": true,
+      "stolen_location": "Brooklyn,NY,11226",
+      "date_stolen": 1473400800
+    },
+    {
+      "id": 95437,
+      "title": "2016 Trek 7.3",
+      "serial": "071016113634156",
+      "manufacturer_name": "Trek",
+      "frame_model": "7.3",
+      "year": 2016,
+      "frame_colors": [
+        "Black"
+      ],
+      "thumb": "https://files.bikeindex.org/uploads/Pu/66179/small_1327013_2016_A_1_7_3_FX_WSD.png",
+      "large_img": "https://files.bikeindex.org/uploads/Pu/66179/large_1327013_2016_A_1_7_3_FX_WSD.png",
+      "is_stock_img": false,
+      "stolen": true,
+      "stolen_location": "Brooklyn,NY,11215",
+      "date_stolen": 1473314400
+    },
+    {
+      "id": 92627,
+      "title": "2016 Trek WSD",
+      "serial": "wtu097c4217L",
+      "manufacturer_name": "Trek",
+      "frame_model": "WSD",
+      "year": 2016,
+      "frame_colors": [
+        "Black"
+      ],
+      "thumb": null,
+      "large_img": null,
+      "is_stock_img": false,
+      "stolen": true,
+      "stolen_location": "Brooklyn,NY,11213",
+      "date_stolen": 1472191200
+    },
+    {
+      "id": 92441,
+      "title": "2015 Trek CrossRip",
+      "serial": "absent",
+      "manufacturer_name": "Trek",
+      "frame_model": "CrossRip",
+      "year": 2015,
+      "frame_colors": [
+        "Black"
+      ],
+      "thumb": "https://files.bikeindex.org/uploads/Pu/63807/small_FB_IMG_1433086255497.jpg",
+      "large_img": "https://files.bikeindex.org/uploads/Pu/63807/large_FB_IMG_1433086255497.jpg",
+      "is_stock_img": false,
+      "stolen": true,
+      "stolen_location": "New York,NY,10017",
+      "date_stolen": 1472104800
+    }
+  ]
+}
