@@ -6,9 +6,18 @@ var Bike = require('./../js/bike.js').bikeModule;
 
 $(document).ready(function() {
   var currentBikeObject = new Bike();
-  $('#stolen-location').click(function() {
+
+  $('#locationSearch').click(function() {
     var location = $('#location').val();
+    $('#location').val();
+    currentBikeObject.getLocation(location);
+  });
+
+  $('#locationMake').click(function() {
+    var location = $('#location').val();
+    var manufacturer = $('#manufacturer').val();
     $('#location').val("");
-    currentBikeObject.getBike(location);
+    $('#manufacturer').val("");
+    currentBikeObject.getLocationMake(location, manufacturer);
   });
 });
