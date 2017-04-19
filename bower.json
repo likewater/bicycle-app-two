@@ -1,12 +1,12 @@
 {
-  "name": "ping-pong",
+  "name": "bicycle-app",
   "description": "application",
   "main": "index.js",
   "authors": [
     "B. Womack"
   ],
   "license": "ISC",
-  "homepage": "https://github.com/likewater/ping-pong-js-week-one",
+  "homepage": "",
   "ignore": [
     "**/.*",
     "node_modules",
